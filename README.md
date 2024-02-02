@@ -2,7 +2,7 @@ Dive into the cosmos with 3D Planet Viewer: realistic day-night cycles, interact
 
 
 
-# 3D PLANET VIEWER
+# 3D PLANET VIEWER MADE WITH THREE.JS
 
 Check out my 3D Planet Viewer using Three.js! Explore space by moving your mouse around. Click to switch between day and night mode. Developed by [Baftjar Jusufi], it's a fun way to learn about planets!
 
