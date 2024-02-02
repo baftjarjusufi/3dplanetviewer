@@ -1,0 +1,21 @@
+{
+  "name": "3dplanetviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "bj",
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "stats": "^1.0.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.149.0",
+    "three-orbit-controls": "^82.1.0"
+  }
+}
