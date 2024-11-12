@@ -6,7 +6,8 @@ Dive into the cosmos with 3D Planet Viewer: realistic day-night cycles, interact
 
 Check out my 3D Planet Viewer using Three.js! Explore space by moving your mouse around. Click to switch between day and night mode. Developed by [Baftjar Jusufi], it's a fun way to learn about planets! When double clicked it will change to "night mode" as shown in picture , you can move the sphere , change direction , size with both mouse and keyboard.
 
-
+## Demo 
+https://3dplanetviewer.vercel.app/
 
 ## Demo small Video
 
